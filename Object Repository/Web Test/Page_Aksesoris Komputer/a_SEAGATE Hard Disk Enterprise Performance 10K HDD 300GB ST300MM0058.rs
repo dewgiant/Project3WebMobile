@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SEAGATE Hard Disk Enterprise Performance 10K HDD 300GB ST300MM0058</name>
+   <tag></tag>
+   <elementGuidId>50c1fef7-f090-4076-9b78-1235b37d6884</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-primary.text-decoration-none</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='products_grid']/div[3]/div/form/div[2]/div/h6/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>43a6e513-a7e5-41a6-8568-7374d508e902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary text-decoration-none</value>
+      <webElementGuid>43ebeba7-1ce0-46e5-8d2f-d4d2b2d65d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>ed52fb4b-6c95-4945-af25-92b5811303a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/seagate-hard-disk-enterprise-performance-10k-hdd-300gb-st300mm0058-sku3318674775</value>
+      <webElementGuid>4fa5348e-287d-4e56-acdf-d01e403f4a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>content</name>
+      <type>Main</type>
+      <value>SEAGATE Hard Disk Enterprise Performance 10K HDD 300GB [ST300MM0058]</value>
+      <webElementGuid>7162cf5b-a2bf-4521-b46e-8c24c9a02911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SEAGATE Hard Disk Enterprise Performance 10K HDD 300GB [ST300MM0058]</value>
+      <webElementGuid>16d19efe-d878-4448-a0d6-ed8e93abe50b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;products_grid&quot;)/div[@class=&quot;o_wsale_products_grid_table_wrapper pt-3 pt-lg-0&quot;]/div[@class=&quot;o_wsale_product_grid_wrapper position-relative h-100&quot;]/form[@class=&quot;oe_product_cart h-100 d-flex&quot;]/div[@class=&quot;o_wsale_product_information position-relative d-flex flex-column flex-grow-1 flex-shrink-1&quot;]/div[@class=&quot;o_wsale_product_information_text flex-grow-1&quot;]/h6[@class=&quot;o_wsale_products_item_title mb-2&quot;]/a[@class=&quot;text-primary text-decoration-none&quot;]</value>
+      <webElementGuid>3899110a-545a-4688-b474-9c5f800d6674</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='products_grid']/div[3]/div/form/div[2]/div/h6/a</value>
+      <webElementGuid>c297cc6c-27fa-4305-90e8-578450678bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SEAGATE Hard Disk Enterprise Performance 10K HDD 300GB [ST300MM0058]')]</value>
+      <webElementGuid>9979136e-007b-477f-a417-a923baa26d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rentang Harga'])[1]/following::a[2]</value>
+      <webElementGuid>f0e116c8-0bee-4761-a1ea-cd8e013eb65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[4]/following::a[2]</value>
+      <webElementGuid>ecc8c1b3-86d0-4d02-b10f-7c623fb9700e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cicilan Rp. 261.125/bln'])[1]/preceding::a[1]</value>
+      <webElementGuid>86aa0361-d432-400a-9678-fa877fefb71f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SEAGATE Hard Disk Enterprise Performance 10K HDD 300GB [ST300MM0058]']/parent::*</value>
+      <webElementGuid>d0c535a6-596a-4f47-b934-266077d0e94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/seagate-hard-disk-enterprise-performance-10k-hdd-300gb-st300mm0058-sku3318674775')])[2]</value>
+      <webElementGuid>b8ee5aa3-b1f8-498c-b440-9a3892b0c8da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6/a</value>
+      <webElementGuid>31efca51-ff28-4947-b71f-f9b3302f575b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/seagate-hard-disk-enterprise-performance-10k-hdd-300gb-st300mm0058-sku3318674775' and (text() = 'SEAGATE Hard Disk Enterprise Performance 10K HDD 300GB [ST300MM0058]' or . = 'SEAGATE Hard Disk Enterprise Performance 10K HDD 300GB [ST300MM0058]')]</value>
+      <webElementGuid>dc8fa5c8-adf6-4ae4-89c3-cd86aac46415</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

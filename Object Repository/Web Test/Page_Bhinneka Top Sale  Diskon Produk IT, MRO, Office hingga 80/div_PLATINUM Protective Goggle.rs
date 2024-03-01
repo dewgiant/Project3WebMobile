@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PLATINUM Protective Goggle</name>
+   <tag></tag>
+   <elementGuidId>34a5820d-03a6-4b4e-9e97-7c3e71246529</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product_carousel_snippet_849533']/div/a/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91c2d87a-c23f-417b-8152-2ac1dfe74fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-title</value>
+      <webElementGuid>9e97bc63-38be-43bc-98eb-64861a667c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PLATINUM Protective Goggle</value>
+      <webElementGuid>93b3f1bf-a5fa-4579-87e0-53024342abc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrap&quot;)/section[@class=&quot;s_bcom_etalase s_table_of_content o_colored_level&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row s_nb_column_fixed&quot;]/div[@class=&quot;col-lg-10 s_table_of_content_main oe_structure oe_empty o_colored_level&quot;]/section[@class=&quot;o_colored_level&quot;]/div[1]/section[@class=&quot;s_dynamic_snippet_products_bcom&quot;]/div[@class=&quot;container o_not_editable&quot;]/div[@id=&quot;s_dynamic_snippet_product_849533&quot;]/div[@id=&quot;product_carousel_snippet_849533&quot;]/div[@class=&quot;carousel-item-slick&quot;]/a[@class=&quot;product-wrapper&quot;]/div[@class=&quot;bg-transparent w-100 card border-0&quot;]/div[@class=&quot;d-flex flex-wrap flex-column justify-content-between product-content&quot;]/div[@class=&quot;product-title&quot;]</value>
+      <webElementGuid>67099860-5b97-4f45-8002-99154081a832</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product_carousel_snippet_849533']/div/a/div/div[2]/div</value>
+      <webElementGuid>58740157-652b-41c3-a491-f002b96309fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Serba Rp 3 ribu'])[2]/following::div[9]</value>
+      <webElementGuid>3c40bdb3-76b7-4866-9f8e-21194f2e3b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Serba Rp 3 jutaan'])[1]/following::div[10]</value>
+      <webElementGuid>7e29f97e-5255-480a-8616-8a4b2d07bc64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PLATINUM Protective Goggle']/parent::*</value>
+      <webElementGuid>7ae49227-1312-442a-bca2-c5cfd595a0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/div</value>
+      <webElementGuid>5fd4a25d-5c00-4931-83cd-30261db5d6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PLATINUM Protective Goggle' or . = 'PLATINUM Protective Goggle')]</value>
+      <webElementGuid>4291755c-2fc1-4723-b543-22c1749fce7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

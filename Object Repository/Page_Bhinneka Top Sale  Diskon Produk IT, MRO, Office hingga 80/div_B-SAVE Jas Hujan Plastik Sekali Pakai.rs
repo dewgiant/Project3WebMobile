@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_B-SAVE Jas Hujan Plastik Sekali Pakai</name>
+   <tag></tag>
+   <elementGuidId>073d4cf5-cf75-45a2-9945-a0ccf892edad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product_carousel_snippet_726127']/div/a/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f33b4bc8-e9d8-423d-9dd8-bb15d00ae148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-title</value>
+      <webElementGuid>c5799a0c-1188-4ce2-95f5-ced55b8a4f79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>B-SAVE Jas Hujan Plastik Sekali Pakai</value>
+      <webElementGuid>61ac712d-6217-41ce-9c2e-46c1a29581e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrap&quot;)/section[@class=&quot;s_bcom_etalase s_table_of_content o_colored_level&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row s_nb_column_fixed&quot;]/div[@class=&quot;col-lg-10 s_table_of_content_main oe_structure oe_empty o_colored_level&quot;]/section[@class=&quot;o_colored_level&quot;]/div[1]/section[@class=&quot;s_dynamic_snippet_products_bcom&quot;]/div[@class=&quot;container o_not_editable&quot;]/div[@id=&quot;s_dynamic_snippet_product_726127&quot;]/div[@id=&quot;product_carousel_snippet_726127&quot;]/div[@class=&quot;carousel-item-slick&quot;]/a[@class=&quot;product-wrapper&quot;]/div[@class=&quot;bg-transparent w-100 card border-0&quot;]/div[@class=&quot;d-flex flex-wrap flex-column justify-content-between product-content&quot;]/div[@class=&quot;product-title&quot;]</value>
+      <webElementGuid>3669eb66-6ba5-4c63-af4c-3d18f0def9e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product_carousel_snippet_726127']/div/a/div/div[2]/div</value>
+      <webElementGuid>7e58d9f9-4f9c-413f-bcce-5a40e68ff7b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety &amp; security'])[2]/following::div[9]</value>
+      <webElementGuid>ec5b8d6e-3c70-4039-a009-5752d1a7e2e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Measuring'])[1]/following::div[10]</value>
+      <webElementGuid>86aca37e-f5ab-49ce-9946-03d8127dd929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='B-SAVE Jas Hujan Plastik Sekali Pakai']/parent::*</value>
+      <webElementGuid>051bc5d3-4a3f-4c2b-b15e-4a9c414fa41d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/div</value>
+      <webElementGuid>d30c1dcc-a95c-4265-853e-ef57df171087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'B-SAVE Jas Hujan Plastik Sekali Pakai' or . = 'B-SAVE Jas Hujan Plastik Sekali Pakai')]</value>
+      <webElementGuid>7c68f447-47d3-4f1f-98f6-27076d38334c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

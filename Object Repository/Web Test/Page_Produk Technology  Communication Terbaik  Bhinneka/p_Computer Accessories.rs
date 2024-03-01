@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Computer Accessories</name>
+   <tag></tag>
+   <elementGuidId>c30eba78-bac1-4248-bc1a-32a84cb44c8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrap']/section[3]/div/div/div/div[2]/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>28bb2471-291f-4e29-93e3-8cb4b57b8333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_default_snippet_text</value>
+      <webElementGuid>97f3a4e2-8a96-4f7e-bb70-206093188c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Computer Accessories</value>
+      <webElementGuid>f30e30ca-9613-49cd-8910-6d4553b666a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrap&quot;)/section[@class=&quot;s_bcom_category o_colored_level&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;inner-carousel&quot;]/div[@class=&quot;row track&quot;]/div[@class=&quot;col item o_colored_level&quot;]/a[@class=&quot;link&quot;]/p[@class=&quot;o_default_snippet_text&quot;]</value>
+      <webElementGuid>3a0579ef-b497-449e-99b2-37e43d42ec80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrap']/section[3]/div/div/div/div[2]/a/p</value>
+      <webElementGuid>022204cc-2206-4373-a017-b1747e5937b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::p[2]</value>
+      <webElementGuid>d7ec55f1-dc19-4557-bd69-a3ddc841c261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smartphone'])[1]/preceding::p[15]</value>
+      <webElementGuid>bfd1831a-bd3b-4141-b846-c9dd75705c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/p</value>
+      <webElementGuid>f43bdaa7-1215-4ba4-8d89-688fdb91e2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Computer Accessories' or . = 'Computer Accessories')]</value>
+      <webElementGuid>5a194292-9403-46d1-badc-fa5201331735</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
